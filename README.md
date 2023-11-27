@@ -4,7 +4,7 @@ Repoditorio para armasenar resumos sobre git e Github do curso de ifood versiona
 
 ## 📘 Documentação
 - [Documentação Git]()
-- [documentação Github]()
+- [documentação Githu]()
 ## 💻 Resumos das aulas
 |Aulas|Resumos|
 |-----|--------|
